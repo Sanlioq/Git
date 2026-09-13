@@ -1,0 +1,15 @@
+C:\TruckingAbstractFactory\bin\Debug\net8.0\TruckingAbstractFactory.exe
+C:\TruckingAbstractFactory\bin\Debug\net8.0\TruckingAbstractFactory.deps.json
+C:\TruckingAbstractFactory\bin\Debug\net8.0\TruckingAbstractFactory.runtimeconfig.json
+C:\TruckingAbstractFactory\bin\Debug\net8.0\TruckingAbstractFactory.dll
+C:\TruckingAbstractFactory\bin\Debug\net8.0\TruckingAbstractFactory.pdb
+C:\TruckingAbstractFactory\obj\Debug\net8.0\TruckingAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\TruckingAbstractFactory\obj\Debug\net8.0\TruckingAbstractFactory.AssemblyInfoInputs.cache
+C:\TruckingAbstractFactory\obj\Debug\net8.0\TruckingAbstractFactory.AssemblyInfo.cs
+C:\TruckingAbstractFactory\obj\Debug\net8.0\TruckingAbstractFactory.csproj.CoreCompileInputs.cache
+C:\TruckingAbstractFactory\obj\Debug\net8.0\TruckingAbstractFactory.dll
+C:\TruckingAbstractFactory\obj\Debug\net8.0\refint\TruckingAbstractFactory.dll
+C:\TruckingAbstractFactory\obj\Debug\net8.0\TruckingAbstractFactory.pdb
+C:\TruckingAbstractFactory\obj\Debug\net8.0\TruckingAbstractFactory.genruntimeconfig.cache
+C:\TruckingAbstractFactory\obj\Debug\net8.0\ref\TruckingAbstractFactory.dll
+C:\TruckingAbstractFactory\obj\Debug\net8.0\Trucking.A31DD161.Up2Date
